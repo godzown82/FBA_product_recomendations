@@ -3,15 +3,21 @@ Our model will predict the high chances of ratings for various product classes t
 * We are correlating high customer ratings with high purchase probability.
 
 ## Approach 
-* DATASET: Amazon Product's Ratings and Reviews as per their details listed on the official website of Amazon https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
+* DATASET: Amazon Product's Ratings and Reviews as per their details listed on the official website of Amazon 
+  > * **Link:** https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset 
+  > * **file name:** amazon.csv 
+  
+  
+  
 
 * DESCRIPTION: This dataset has the data of 1K+ Amazon Product Ratings and Reviews as per their details listed on the official website of Amazon
 
 * ANALYSIS: 
 * First we have a data walkthrough and groupings
 * Data preprocessing:
-  * Data Cleaning
+  * Data Cleaning: 
   * Data exploration
+    * The dataPreprocessing.ipynb file reads the amazon.csv file. Make sure you correct the path to your directory.
     * Models used : Models can be viewed in our respective branches (adedapo,randon,shubhda,alfredo)
       * model 1 : by Alfredo
       * model 2 : by Randon
