@@ -31,5 +31,5 @@
   >     * pricing strategies
   >     * to inform business decisions.
 
-## Summary
+# Summary
 >Describe what has been analyzed and our findings include models, visualizations and recommendations 
