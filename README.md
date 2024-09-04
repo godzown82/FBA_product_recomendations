@@ -29,5 +29,5 @@
   >     * to inform business decisions.
 
 # Summary
->In our data we were able to plot the distribution of customer ratings over our product catalog and discovered over 50% of our products get high ratings and thus prioritizing our inventory to fulfiling those products would yeild profitability.
+>In our data we were able to plot the distribution of customer ratings over our product catalog and discovered over 50% of our products get high ratings and thus prioritizing our inventory to fulfilling those products would yield profitability.
 ![alt text](image.png)
