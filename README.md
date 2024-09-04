@@ -24,7 +24,7 @@
    >- Generate predicted ratings for current and new products.
   >6. **Evaluation**
    >- Validate model accuracy using test data and performance metrics.
-   ![alt text](Screenshot 2024-09-03 204609.png)
+   ![alt text](https://github.com/godzown82/FBA_product_recomendations/blob/main/Screenshot%202024-09-03%20204609.png)
 * **Data preprocessing:**
   >* **Setup:** 
   >   * create a `gitconfig.py` file in your repository and set your environment path in the file to `env_path = "repository path\Resources"`
