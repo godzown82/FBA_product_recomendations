@@ -19,11 +19,8 @@
   >* **Data Cleaning:** 
   >* **Data exploration:**
   >   * The dataPreprocessing.ipynb file reads the amazon.csv file. Make sure you are using the correct path in the **setup** steps above
-  >  * **Models used:** Models can be viewed in our respective branches (adedapo,randon,shubhda,alfredo)
-  >    * model 1 : by Alfredo
-  >    * model 2 : by Randon
-  >    * model 3 : by Shubhda
-  >    * model 4 : by Adedapo
+  >  * **Models used:** Models can be viewed in our respective branches (adedapo,randon,shubhda,alfredo) We experimented with sevaral models but settled on `Linear Regression` as it gave us the highest R2 score of 95%
+  >   
   >* **Data visualizations:**
   >   * Create informative graphs and charts to 
   >     * product performance
@@ -32,4 +29,5 @@
   >     * to inform business decisions.
 
 # Summary
->Describe what has been analyzed and our findings include models, visualizations and recommendations 
+>In our data we were able to plot the distribution of customer ratings over our product catalog and discovered over 50% of our products get high ratings and thus prioritizing our inventory to fulfiling those products would yeild profitability.
+![alt text](image.png)
