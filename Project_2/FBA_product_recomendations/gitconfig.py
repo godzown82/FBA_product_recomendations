@@ -1,0 +1,1 @@
+env_path = r"C:\Users\musta\Documents\AI_Bootcamp\Project_2\FBA_product_recomendations\Resources"
