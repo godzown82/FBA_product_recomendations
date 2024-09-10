@@ -36,3 +36,4 @@
 # Summary
 >In our data we were able to plot the distribution of customer ratings over our product catalog and discovered over 50% of our products get high ratings and thus prioritizing our inventory to fulfilling those products would yield profitability. In addition high product ratings also are highly recommended by customers.
 ![alt text](image-1.png)
+Our model was used for our FBA presentation which can be found here https://docs.google.com/presentation/d/1MvuZbV2OCLTtOaXoCHrrSdW9vhhCNEoYyEaxC3sZ1Xc/edit#slide=id.g2fdbb8424f2_0_0
